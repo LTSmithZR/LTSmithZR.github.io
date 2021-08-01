@@ -1,12 +1,13 @@
 body {
 	/*font-family: Times, serif;*/
+	font-family: 'Lora', serif;
 	font-family: 'Playfair Display', serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.8;
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: 400;
 }
 
